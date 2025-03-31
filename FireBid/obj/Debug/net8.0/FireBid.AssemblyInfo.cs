@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FireBid")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+004412287cd40dfc541203ffed21f0e3a021a39e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6ea43369c068a98e641bbfb4cac03d244e3a07e")]
 [assembly: System.Reflection.AssemblyProductAttribute("FireBid")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FireBid")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
